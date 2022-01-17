@@ -1,0 +1,29 @@
+Person6:
+
+Name :- Vishal_Mehta
+
+Which field of IT are you interested :- I am interested in AI-AR.
+
+Why did you choose this field (at least 100 chars)?
+
+Answer :
+
+I choosed the AI-AR field because i am interested in the Artificial intelegence field and i have interest into this field like how robot works how we can gvie them command and how we can make human life easy by using AI.
+
+
+Where do you want to yourself in 5 years?
+Answer:
+
+i want myself to be working in an AI-ML Devlopment team as leader of a group.
+
+
+Add, commit and push code from the local machine. Work together.
+
+
+
+
+
+
+
+
+
