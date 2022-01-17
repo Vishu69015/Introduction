@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Person6:
 
 Name :- Vishal_Mehta
@@ -16,14 +17,13 @@ Answer:
 
 i want myself to be working in an AI-ML Devlopment team as leader of a group.
 
+=======
+Person5:
+Name :- Tilak Ved
+In the field of IT I am interested in front-end development.
+I have choosed this field because I want to learn all about the view working at client side
 
-Add, commit and push code from the local machine. Work together.
-
-
-
-
-
-
-
+I want to be my best version in feild of IT in 5 years.
+>>>>>>> 2e2a0b3584afca64ee25b42ab1b7e4566eeb7cf7
 
 
