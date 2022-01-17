@@ -11,3 +11,26 @@ Where do you want to yourself in 5 years?
 Answer:i want my self in 5 years as a full-tack developer.
 
 Add, commit and push code from the local machine. Work together.
+Person4:
+
+Name :- Raj Vyas
+
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- 
+Answer : Devops
+
+Why did you choose this field (at least 100 chars)?
+Answer : 
+I like to work on Cloud Part. For that, I have worked on few basics of AWS(Amazon Web Services).  
+
+Where do you want to yourself in 5 years?
+Answer:
+Manager
+
+Person5:
+Name :- Tilak Ved
+In the field of IT I am interested in front-end development.
+I have choosed this field because I want to learn all about the view working at client side
+
+I want to be my best version in feild of IT in 5 years.
+
+
