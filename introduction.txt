@@ -8,3 +8,33 @@ I have studied HTML CSS Javascript  . I have practiced HTML CSS after my 12 th s
  
 Where do you want to yourself in 5 years?
 i want to be see myself as a web designer team leader
+Person 3:
+Name :- Pinak_Changela
+Which field of IT (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- BA
+Why did you choose this field (at least 100 chars)? 
+Answer : I choose Business Analyst as my domain because after getting to know more details about this domain, I felt like this is something I can work with. One of the main reason about this choice is my Communication, as it is one of the main requirement in BA. Managing skills and documentation skills are also the reason behind choosing this domain.
+Where do you want to yourself in 5 years?
+Answer : After 5 years, I will be looking to get more and more knowledge in this BA domain. After that i'll be looking for a bit stability in life. Also I will be looking to help my father in the best possible way I can.
+Person4:
+
+Name :- Raj Vyas
+
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- 
+Answer : Devops
+
+Why did you choose this field (at least 100 chars)?
+Answer : 
+I like to work on Cloud Part. For that, I have worked on few basics of AWS(Amazon Web Services).  
+
+Where do you want to yourself in 5 years?
+Answer:
+Manager
+
+Person5:
+Name :- Tilak Ved
+In the field of IT I am interested in front-end development.
+I have choosed this field because I want to learn all about the view working at client side
+
+I want to be my best version in feild of IT in 5 years.
+
+
