@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Person 3:
 Name :- Pinak_Changela
 Which field of IT (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- BA
@@ -7,6 +8,38 @@ Answer : I choose Business Analyst as my domain because after getting to know mo
 Where do you want to yourself in 5 years?
 Answer : After 5 years, I will be looking to get more and more knowledge in this BA domain. After that i'll be looking for a bit stability in life. Also I will be looking to help my father in the best possible way I can.
 =======
+=======
+Person6:
+
+Name :- Vishal_Mehta
+
+Which field of IT are you interested :- I am interested in AI-AR.
+
+Why did you choose this field (at least 100 chars)?
+
+Answer :
+
+I choosed the AI-AR field because i am interested in the Artificial intelegence field and i have interest into this field like how robot works how we can gvie them command and how we can make human life easy by using AI.
+
+
+Where do you want to yourself in 5 years?
+Answer:
+
+i want myself to be working in an AI-ML Devlopment team as leader of a group.
+Person1:
+Name :-  Chirag Kher
+
+Which field of IT are you interested in (front-end,Web Designer):-
+
+Why did you choose this field (at least 100 chars)?
+
+Answer :Beacuse i am interested in designing and second reason is to work as both front-endnd back-end.
+
+Where do you want to yourself in 5 years?
+Answer:i want my self in 5 years as a full-tack developer.
+
+Add, commit and push code from the local machine. Work together.
+>>>>>>> facde2dffbc90a8b93ebabc77f8223551ab74ed0
 Person4:
 
 Name :- Raj Vyas
